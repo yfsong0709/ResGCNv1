@@ -4,6 +4,8 @@
 
 Yi-Fan Song, Zhang Zhang, Caifeng Shan and Liang Wang. **Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition.** ACM MultiMedia, 2020. [[ACMMM 2020]](https://dl.acm.org/doi/abs/10.1145/3394171.3413802) [[Arxiv Preprint]](https://arxiv.org/pdf/2010.09978.pdf)
 
+Latest version (ResGCN v2.0): [[Github]](https://github.com/yfsong0709/EfficientGCNv1) [[Arxiv Preprint]](https://arxiv.org/pdf/2106.15125.pdf)
+
 The following pictures are the pipeline of ResGCNv1 and the illustration of PartAtt block, respectively.
 <div align="center">
     <img src="resources/pipeline.png">
@@ -155,5 +157,12 @@ Please cite our paper when you use this code in your reseach.
   address   = {New York, NY, USA},
   url       = {https://doi.org/10.1145/3394171.3413802},
   doi       = {10.1145/3394171.3413802},
+}
+
+@article{song2021efficientgcn,
+  author    = {Song, Yi-Fan and Zhang, Zhang and Shan, Caifeng and Wang, Liang},
+  title     = {EfficientGCN: Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition},
+  journal   = {arXiv:2106.15125},
+  year      = {2021},
 }
 ```
